@@ -25,6 +25,7 @@ A machine learning project for predicting solar panel farm power production base
 [MIT License](https://github.com/ColasGael/Machine-Learning-for-Solar-Energy-Prediction/blob/master/LICENSE)
 
 ### Code of Conduct
+Code of Conduct sets the standards for how we interact with each other. It is important to maintain a respectful and inclusive environment in order to nourish cooperation. You can read the full document [here](https://github.com/Moosa-Anwar-Khan/Machine-Learning-for-Solar-Energy-Prediction/blob/master/CONDUCT.md)
 
 ### Contribution Guidelines
 1. Fork the repo.  
